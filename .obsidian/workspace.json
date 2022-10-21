@@ -59,12 +59,8 @@
             "id": "51346fa62d497cf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp积累/condition_variable.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -134,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp积累/condition_variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp积累/condition_variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cpp积累/condition_variable.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -188,12 +180,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "51346fa62d497cf1",
+  "active": "6029df523aed6f8c",
   "lastOpenFiles": [
+    "cpp积累/condition_variable.md",
     "Markdown使用.md",
     "[百度一下，你就知道.md",
     "Markdown.pdf",
-    "cpp积累/condition_variable.md",
     "drawfactory总结.md",
     "2022-10-19.md",
     "2022-10-18.md",
