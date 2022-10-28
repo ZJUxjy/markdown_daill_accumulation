@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7571737a75d85c88",
+        "id": "25316b05eb6173b1",
         "type": "tabs",
         "children": [
           {
-            "id": "568132ccd2ac4efb",
+            "id": "e3dc5b45a00936ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "查看文件夹大小的命令.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ea66527e00cbefa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34cf2d4d4152f29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a029c5ea2cf7df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drawfactory总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51346fa62d497cf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ssh/ssh使用.md",
+                "file": "qcustomplot/qcustomplot调研.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssh/ssh使用.md",
+                "file": "qcustomplot/qcustomplot调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ssh/ssh使用.md",
+                "file": "qcustomplot/qcustomplot调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ssh/ssh使用.md"
+                "file": "qcustomplot/qcustomplot调研.md"
               }
             }
           }
@@ -185,20 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "51346fa62d497cf1",
+  "active": "e3dc5b45a00936ee",
   "lastOpenFiles": [
-    "ssh/ssh_key_gen.webp",
-    "ssh/ssh使用.md",
-    "[百度一下，你就知道.md",
-    "cpp积累/condition_variable.md",
-    "Markdown使用.md",
-    "Markdown.pdf",
+    "qcustomplot调研.md",
     "drawfactory总结.md",
-    "2022-10-19.md",
+    "Vcpkg.md",
+    "cpp积累/cpp模板 泛型.md",
+    "cpp积累/decltype.md",
+    "查看文件夹大小的命令.md",
     "2022-10-18.md",
-    "cpp积累/unique_lock.md"
+    "ssh/ssh使用.md",
+    "ssh/ssh_key_gen.webp",
+    "[百度一下，你就知道.md"
   ]
 }
