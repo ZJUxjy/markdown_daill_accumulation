@@ -1,84 +1,35 @@
 {
   "main": {
-    "id": "5fdfd7076b56bfa7",
+    "id": "7b75cc1b23fb6689",
     "type": "split",
     "children": [
       {
-        "id": "7571737a75d85c88",
+        "id": "803d3ce838641340",
         "type": "tabs",
         "children": [
           {
-            "id": "568132ccd2ac4efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "查看文件夹大小的命令.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ea66527e00cbefa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34cf2d4d4152f29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a029c5ea2cf7df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drawfactory总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51346fa62d497cf1",
+            "id": "1209ea75c0bea6d2",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5368f5fd684bfa46",
+    "id": "88de1179cea6132f",
     "type": "split",
     "children": [
       {
-        "id": "bcc9a23337e03e07",
+        "id": "4ac25d0c7112781f",
         "type": "tabs",
         "children": [
           {
-            "id": "6029df523aed6f8c",
+            "id": "516b5a13cc24dcbb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -88,22 +39,22 @@
             }
           },
           {
-            "id": "9b03111ab97c8c06",
+            "id": "2cdb158271d7be20",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#基本语法",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "e351f4ea8397a299",
+            "id": "5f1ed6ba46f9bdb1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -117,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "0d2c9838b642035d",
+    "id": "bc8d4206c1e6b25e",
     "type": "split",
     "children": [
       {
-        "id": "b8f47e2b09580758",
+        "id": "8f95b27f5e1fcae2",
         "type": "tabs",
         "children": [
           {
-            "id": "c45ab011ca359d3c",
+            "id": "a004130800b007da",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -141,7 +92,7 @@
             }
           },
           {
-            "id": "fa760bf8901f641e",
+            "id": "35d23ee14d0190fd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -152,7 +103,7 @@
             }
           },
           {
-            "id": "c4bb729dc00c2bd3",
+            "id": "6262b71cbc75a21f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,7 +114,7 @@
             }
           },
           {
-            "id": "95c5d0659aeb489b",
+            "id": "30b03b9c1c282f6b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -180,17 +131,8 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6029df523aed6f8c",
+  "active": "1209ea75c0bea6d2",
   "lastOpenFiles": [
-    "cpp积累/condition_variable.md",
-    "Markdown使用.md",
-    "[百度一下，你就知道.md",
-    "Markdown.pdf",
-    "drawfactory总结.md",
-    "2022-10-19.md",
-    "2022-10-18.md",
-    "cpp积累/unique_lock.md",
-    "docker/Dockfile使用.md",
-    "查看文件夹大小的命令.md"
+    "Untitled.md"
   ]
 }
