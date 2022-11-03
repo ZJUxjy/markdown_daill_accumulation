@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3dc5b45a00936ee",
+            "id": "3f725aff8d9f297d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qcustomplot/qcustomplot调研.md",
+                "file": "遇到的报错记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7441625c76831196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "std_function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qcustomplot/qcustomplot调研.md",
+                "file": "std_function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qcustomplot/qcustomplot调研.md",
+                "file": "std_function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qcustomplot/qcustomplot调研.md"
+                "file": "std_function.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3dc5b45a00936ee",
+  "active": "7441625c76831196",
   "lastOpenFiles": [
-    "qcustomplot调研.md",
+    "遇到的报错记录.md",
+    "cpp积累/构建命令.md",
+    "cpp积累/std.md",
     "drawfactory总结.md",
-    "Vcpkg.md",
-    "cpp积累/cpp模板 泛型.md",
-    "cpp积累/decltype.md",
-    "查看文件夹大小的命令.md",
-    "2022-10-18.md",
-    "ssh/ssh使用.md",
-    "ssh/ssh_key_gen.webp",
-    "[百度一下，你就知道.md"
+    "third_party/gflags.md",
+    "third_party/Vcpkg.md",
+    "cpp积累/setw().md",
+    "qcustomplot/qcustomplot调研.md",
+    "qcustomplot/qcustomplot调研.pdf",
+    "QMake.md"
   ]
 }
