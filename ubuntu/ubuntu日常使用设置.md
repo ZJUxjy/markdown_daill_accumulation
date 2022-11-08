@@ -58,7 +58,7 @@ source /etc/profile
 
 * 还有一种方法可以在仅当前终端生效：
 ```shell 
-export PATH=/home/yan/share/usr/local/arm/3.4.1/bin:$PATH
+export PATH=/home/jingyao/ThirdParty/osg/bin:$PATH
 ```
 上面这句话直接写在终端里，就只会对当前终端生效
 

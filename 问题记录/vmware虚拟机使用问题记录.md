@@ -1,4 +1,4 @@
-1. vmware另一个程序已锁定文件的一部分,进程无法访问
+1. 启动一个已经安装的虚拟机显示错误：vmware另一个程序已锁定文件的一部分,进程无法访问
 >把虚拟机文件夹下面.lck文件夹都删除，然后再运行
 
 ---
@@ -10,7 +10,8 @@
 
 ---
 
-3. ssh连接虚拟机连不上，报错:`ssh: connect to host 192.168.86.128 port 22: Connection refused`
+3. 使用ssh命令连不上虚拟机，检查过ip、端口都正确，报错:`ssh: connect to host 192.168.86.128 port 22: Connection refused`
+解决：
 >检查是否安装openssh-server
 >`ps -e|grep ssh`
 >没东西显示就说明没安装，执行下面命令进行安装
