@@ -8,67 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f725aff8d9f297d",
+            "id": "66e5f8d3f0f12ff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QThread.md",
+                "file": "2022-11-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "efee3c77208bd338",
+            "id": "44df87eaed763d63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp积累/构建命令.md",
+                "file": "ssh/ssh使用.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "947d1e2f588069c5",
+            "id": "1b4f6f59d61ee261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QThread.md",
+                "file": "ubuntu/ubuntu日常使用设置.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57d9aa5a00c90f5d",
+            "id": "59933df837da73c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protobuf踩坑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e61b0df916a98e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp积累/decltype.md",
+                "file": "ubuntu/ubuntu日常使用设置.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp积累/decltype.md",
+                "file": "ubuntu/ubuntu日常使用设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp积累/decltype.md",
+                "file": "ubuntu/ubuntu日常使用设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp积累/decltype.md"
+                "file": "ubuntu/ubuntu日常使用设置.md"
               }
             }
           }
@@ -185,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e61b0df916a98e18",
+  "active": "59933df837da73c7",
   "lastOpenFiles": [
-    "cpp积累/构建命令.md",
-    "cpp积累/condition_variable.md",
-    "cpp积累/cpp模板 泛型.md",
-    "cpp积累/unique_lock.md",
-    "cpp积累/std_function.md",
-    "cpp积累/setw().md",
-    "docker/Dockfile使用.md",
-    "qcustomplot/qcustomplot调研.md",
+    "ubuntu/ubuntu下qt安装后打不开.md",
+    "未命名.md",
+    "ubuntu/ubuntu日常使用设置.md",
     "ssh/ssh使用.md",
-    "ssh/ssh文件结构.jpg"
+    "问题记录/vmware问题记录.md",
+    "2022-11-08.md",
+    "Markdown使用.md",
+    "思路.md",
+    "查看文件夹大小的命令.md",
+    "问题记录/Protobuf踩坑.md"
   ]
 }
