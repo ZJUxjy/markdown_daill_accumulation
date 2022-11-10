@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protoc.md",
+                "file": "cpp积累/构建命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protoc.md",
+                "file": "cpp积累/构建命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protoc.md",
+                "file": "cpp积累/构建命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protoc.md"
+                "file": "cpp积累/构建命令.md"
               }
             }
           }
@@ -149,17 +149,20 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "efee3c77208bd338",
   "lastOpenFiles": [
+    "cpp积累/std_function.md",
+    "cpp积累/setw().md",
+    "cpp积累/decltype.md",
+    "cpp积累/cpp模板 泛型.md",
+    "protoc.md",
     "QThread.md",
     "QMake.md",
     "Markdown使用.md",
     "drawfactory总结.md",
-    "cpp积累/std_function.md",
-    "遇到的报错记录.md",
-    "std_function.pdf",
-    "cpp积累/构建命令.md",
-    "cpp积累/std.md",
-    "third_party/gflags.md"
+    "遇到的报错记录.md"
   ]
 }
