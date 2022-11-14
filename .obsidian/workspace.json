@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c1ca9c620dca41b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "525310ad60f3eabf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c0f941dfc2dc8ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "双目项目记录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb6ab90068e9c7c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术栈/ubuntu/linux Qt打包过程配置.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ce68d5cc781bd10",
             "type": "leaf",
             "state": {
@@ -73,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
+                "file": "杂项/知名镜像源.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
+                "file": "杂项/知名镜像源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
+                "file": "杂项/知名镜像源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术栈/ubuntu/qt程序可以编译但是无法打开.md"
+                "file": "杂项/知名镜像源.md"
               }
             }
           }
@@ -199,12 +151,12 @@
   },
   "active": "4ab0849a38da81d6",
   "lastOpenFiles": [
+    "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
     "技术栈/ubuntu/ubuntu中报错 Could NOT find OpenSSL.md",
     "技术栈/zmq/zmq学习.md",
     "技术栈/ubuntu/linux Qt打包过程配置.md",
     "技术栈/ubuntu/ubuntu Qt卸载.md",
     "双目项目记录.md",
-    "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
     "杂项/知名镜像源.md",
     "技术栈/ubuntu/ubuntu日常使用设置.md",
     "技术栈/ubuntu/查看文件夹大小的命令.md",
