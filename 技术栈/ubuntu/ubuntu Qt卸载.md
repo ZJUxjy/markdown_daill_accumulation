@@ -1,0 +1,1 @@
+[(28条消息) 卸载Ubuntu自带的Qt4和Qt5_我昵称没了的博客-CSDN博客_ubuntu卸载qt5](https://blog.csdn.net/qq_39596543/article/details/122219758)
