@@ -5,7 +5,7 @@
 
 ## ubuntu
 ```bash
-sudo gedit /etchosts
+sudo gedit /etc/hosts
 ```
 在文件中空白行添加如下格式的内容：
 ```
@@ -23,3 +23,8 @@ windows下的hosts文件在`C:\WINDOWS\system32\drivers\etc`下面，修改需�
 ```
 
 反正经我本人使用，github连不上了就上去换个ip，都能连上。
+
+```JSON
+ipconfig /flushdns
+```
+刷新缓存
