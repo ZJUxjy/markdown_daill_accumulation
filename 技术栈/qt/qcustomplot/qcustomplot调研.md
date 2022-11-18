@@ -65,11 +65,4 @@ void MainWindow::customplot_drawdemo(){
 效果如下：
 ![[绘制效果.jpg]]
 
----
-
-
-# 与qchart相比性能比较
-
-
-比qchart性能好
 
