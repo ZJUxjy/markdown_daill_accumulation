@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/知名镜像源.md",
+                "file": "技术栈/ubuntu/ubuntu中报错 Could NOT find OpenSSL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b71fe4cfc36fc47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术栈/ubuntu/ubuntu 用ssh连接不上.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b113453035bb77f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp积累/构建命令.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/知名镜像源.md",
+                "file": "cpp积累/构建命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/知名镜像源.md",
+                "file": "cpp积累/构建命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/知名镜像源.md"
+                "file": "cpp积累/构建命令.md"
               }
             }
           }
@@ -149,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ab0849a38da81d6",
+  "active": "b113453035bb77f7",
   "lastOpenFiles": [
-    "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
+    "杂项/github加速.md",
+    "ssh/ssh使用.md",
+    "ssh/gitlab中添加key.png",
+    "技术栈/ubuntu/vmware tool安装.md",
+    "技术栈/ubuntu/ubuntu 用ssh连接不上.md",
     "技术栈/ubuntu/ubuntu中报错 Could NOT find OpenSSL.md",
-    "技术栈/zmq/zmq学习.md",
-    "技术栈/ubuntu/linux Qt打包过程配置.md",
-    "技术栈/ubuntu/ubuntu Qt卸载.md",
-    "双目项目记录.md",
-    "杂项/知名镜像源.md",
     "技术栈/ubuntu/ubuntu日常使用设置.md",
-    "技术栈/ubuntu/查看文件夹大小的命令.md",
-    "cpp Json 解析方式.md"
+    "杂项/知名镜像源.md",
+    "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
+    "技术栈/zmq/zmq学习.md"
   ]
 }
