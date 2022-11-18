@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ce68d5cc781bd10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术栈/ubuntu/linux Qt打包过程配置.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ab0849a38da81d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂项/知名镜像源.md",
-                "mode": "source",
-                "source": false
-              }
-            }
             "id": "3a56fa25e5903ee3",
             "type": "leaf",
             "state": {
@@ -47,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术栈/cmake/cmake.md",
+                "file": "2022-11-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6c3d040ec0ce15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术栈/ubuntu/ubuntu日常使用设置.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,8 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/知名镜像源.md",
-                "file": "技术栈/cmake/cmake.md",
+                "file": "技术栈/ubuntu/ubuntu日常使用设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/知名镜像源.md",
-                "file": "技术栈/cmake/cmake.md",
+                "file": "技术栈/ubuntu/ubuntu日常使用设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/知名镜像源.md"
-                "file": "技术栈/cmake/cmake.md"
+                "file": "技术栈/ubuntu/ubuntu日常使用设置.md"
               }
             }
           }
@@ -186,27 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f84996a837e485c",
+  "active": "b6c3d040ec0ce15c",
   "lastOpenFiles": [
-    "技术栈/ubuntu/qt程序可以编译但是无法打开.md",
-    "技术栈/ubuntu/ubuntu中报错 Could NOT find OpenSSL.md",
-    "技术栈/zmq/zmq学习.md",
-    "技术栈/ubuntu/linux Qt打包过程配置.md",
-    "技术栈/ubuntu/ubuntu Qt卸载.md",
-    "双目项目记录.md",
-    "杂项/知名镜像源.md",
-    "技术栈/ubuntu/ubuntu日常使用设置.md",
-    "技术栈/ubuntu/查看文件夹大小的命令.md",
-    "cpp Json 解析方式.md"
+    "技术栈/docker/从c盘里清理docker并转移.md",
+    "杂项/github加速.md",
+    "构建命令.md",
+    "30天cpp服务器/day1.md",
+    "2022-11-16.md",
+    "杂项/protoc.md",
+    "技术栈/cmake/cmake.md",
     "技术栈/cmake/cmake变量、条件语句.md",
     "技术栈/cmake/单元测试.md",
-    "技术栈/qt/qcustomplot/qcustomplot调研.md",
-    "技术栈/cmake/cmake.md",
-    "技术栈/cmake/find_package.md",
-    "技术栈/qt/QMake.md",
-    "设计模式/单例模式.md",
-    "问题记录/记录一个遇到的vcdode内置终端运行错误问题.md",
-    "问题记录/遇到的报错记录.md",
-    "问题记录/ifstream.md"
+    "技术栈/qt/qcustomplot/qcustomplot调研.md"
   ]
 }
