@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术栈/ubuntu/ubuntu日常使用设置.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术栈/ubuntu/ubuntu日常使用设置.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术栈/ubuntu/ubuntu日常使用设置.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术栈/ubuntu/ubuntu日常使用设置.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -175,15 +175,15 @@
   },
   "active": "b6c3d040ec0ce15c",
   "lastOpenFiles": [
+    "构建命令.md",
+    "技术栈/ubuntu/ubuntu日常使用设置.md",
     "技术栈/docker/从c盘里清理docker并转移.md",
     "杂项/github加速.md",
-    "构建命令.md",
     "30天cpp服务器/day1.md",
     "2022-11-16.md",
     "杂项/protoc.md",
     "技术栈/cmake/cmake.md",
     "技术栈/cmake/cmake变量、条件语句.md",
-    "技术栈/cmake/单元测试.md",
-    "技术栈/qt/qcustomplot/qcustomplot调研.md"
+    "技术栈/cmake/单元测试.md"
   ]
 }
