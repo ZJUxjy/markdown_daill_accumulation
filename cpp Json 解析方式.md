@@ -117,9 +117,9 @@ void read(std::string _jsonFile)
 	set_m_JsonFile(file.fileName());
 	file.open(QFile::ReadOnly);
 	if (!file.isOpen()) return;
+	QByteArray _all;
 	_all = file.readAll();
 	file.close();
-	QByteArray _all;
     QJsonParseError jsonError;
     QJsonDocument document = QJsonDocument::fromJson(_all, &jsonError);
     if ((QJsonParseError::NoError == jsonError.error) &&(!document.isNull()))

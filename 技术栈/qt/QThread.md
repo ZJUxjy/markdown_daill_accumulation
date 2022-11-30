@@ -7,7 +7,7 @@ class Pco2Blf:public QThread
 {
     Q_OBJECT
 public:
-    explict Pco2Blf(QThread *parent = nullptr);
+    explicit Pco2Blf(QThread *parent = nullptr);
     ~Pco2Blf();
     void setExeUrl(QString);
     void setPcoUrl(QString);

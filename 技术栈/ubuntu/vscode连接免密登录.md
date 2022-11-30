@@ -1,0 +1,6 @@
+
+以windows连ubuntu为例
+
+windows的ssh文件夹在c盘用户名目录下，然后拷贝其中一个.pub文件内容。
+
+连接上ubuntu后，在ubuntu的ssh文件夹下建立一个新文件名为`authorized_keys`，将复制的内容拷贝到这个文件当中。
