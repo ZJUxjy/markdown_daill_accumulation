@@ -1,3 +1,5 @@
+`CMAKE_INSTALL_PREFIX` 
+
 
 # 变量
 
