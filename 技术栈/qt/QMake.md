@@ -25,3 +25,29 @@
 	 CONFIG += qt thread debug //连编为可调试的多线程应用程序
 ```
 
+---
+
+# 条件编译
+
+```
+CONFIG+=debug_and_release
+
+CONFIG(debug,debug|release)
+{
+debug 下的设置内容....
+}
+
+CONFIG(release,debug|release)
+{
+release 下的设置内容....
+}
+```
+进行编译：
+```
+make debug
+make release
+make all(debug&release 都进行编译)
+```
+
+**屏蔽release版本中所有QDebug()提示信息：**
+在pro文件中添加`DEFINES+=QT_NO_DEBUG_OUTPUT`

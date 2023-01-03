@@ -1,0 +1,1 @@
+windows上osg编译需要加`-DCMAKE_CXX_STANDARD=14`使用c++14进行编译
