@@ -29,7 +29,10 @@ linuxdeployqt  (commit 5fa79fa), build 36 built on 2022-08-21 12:36:03 UTC
 sudo linuxdeployqt DevTool -unsupported-allow-new-glibc
 ```
 
-
+或者这样：
+```
+sudo linuxdeployqt App -appimage
+```
 
 
 待补充：[(28条消息) ubuntu linuxdeployqt 打包Qt程序_超级大洋葱806的博客-CSDN博客_pyqt 打包 ubuntu](https://blog.csdn.net/u014779536/article/details/107854060)

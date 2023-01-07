@@ -33,3 +33,11 @@ docker pull img_name:tag
 docker rmi -f ${docker images -aq} # del all
 docker rmi -f ${CONTAINER_ID} # del all
 ```
+
+
+## docker run
+
+```
+xhost local:root
+docker run -p 9001:22 -it  --privileged   -e DISPLAY=$DISPLAY   -v C:\Users\94806\Downloads:/data   ubuntu-eprosima-dds-suite:v1.3.0
+```
